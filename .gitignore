@@ -30,7 +30,7 @@ migrate_working_dir/
 .pub-cache/
 .pub/
 /build/
-map_key
+/map_key
 gradle.properties
 
 
